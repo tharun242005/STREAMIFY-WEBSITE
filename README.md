@@ -157,3 +157,4 @@ The goal of Streamify is to demonstrate core React concepts such as component-ba
 This project is fully runnable by installing dependencies and starting the development server. It is optimized for learning, demonstration, and frontend project submissions.
 
 ---
+**Built by [THARUN P](https://www.linkedin.com/in/tharun-p-4146b4318/) from [STREAMIFY](https://github.com/tharun242005)*
